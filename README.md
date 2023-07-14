@@ -1,2 +1,2 @@
 # test
-# # This is a Basic Nav Bar animation made long ago
+~This is a Basic Nav Bar animation made long ago
